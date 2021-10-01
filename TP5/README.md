@@ -27,7 +27,7 @@
 </ul>
 <h2 class="code-line" data-line-start=11 data-line-end=12 ><a id="Crear_11">Biografia</a></h2>
 <ul>
-<a href="https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.table.html">https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.table.html</a></h2>
-<a href="https://www.delftstack.com/es/howto/matplotlib/plot-table-using-matplotlib/">https://www.delftstack.com/es/howto/matplotlib/plot-table-using-matplotlib/</a></h2>
-<a href="https://docs.python.org/es/3/tutorial/">https://docs.python.org/es/3/tutorial/</a></h2>
-<a href="https://j2logo.com/python/tutorial/tipo-list-python/">https://j2logo.com/python/tutorial/tipo-list-python/</a></h2>
+ <a href="https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.table.html">https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.table.html</a><br>
+ <a href="https://www.delftstack.com/es/howto/matplotlib/plot-table-using-matplotlib/">https://www.delftstack.com/es/howto/matplotlib/plot-table-using-matplotlib/</a><br>
+ <a href="https://docs.python.org/es/3/tutorial/">https://docs.python.org/es/3/tutorial/</a><br>
+ <a href="https://j2logo.com/python/tutorial/tipo-list-python/">https://j2logo.com/python/tutorial/tipo-list-python/</a><br>
